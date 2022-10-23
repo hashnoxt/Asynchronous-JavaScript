@@ -1,1 +1,1 @@
-#Asynchronous JavaScript Course (Async/Await, Promises, Callbacks)
+#Asynchronous JavaScript (Async/Await, Promises, Callbacks)
